@@ -1,13 +1,10 @@
-{"job1":{"name":"world1",
-         "desc":"work on world 1",
-         "timestamp":"2017-03-10  14:30:12"
-        },
-"job2":{"name":"world2",
-        "desc":"work on world 2",
-        "timestamp":"	2018-02-27  15:35:20"
-       },
-"job3":{"name":"world3",
-        "desc":"work on world 3",
-        "timestamp":"2017-03-12  13:11:34"
-       }
+{"jobs":["job1","job2","job3"],
+ "jobsdesc":{"job1":"work on world 1",
+             "job2":"work on world 2",
+             "job3":"work on world 3"
+            },
+ "jobstimestamp":{"job1":"2017-03-10  14:30:12",
+                  "job2":"2018-02-27  15:35:20",
+                  "job3":"2017-03-12  13:11:34"
+                 }
 }
