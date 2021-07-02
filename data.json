@@ -1,11 +1,11 @@
 {"sanyam":{
     "name":"Sanyam Kumar",
     "pass":"sanyam111",
-    "jobs":"https://raw.githubusercontent.com/sanyamgoel10/hello-world/main/sanyam_jobs.json"
+    "jobs":"https://raw.githubusercontent.com/sanyamgoel10/hello-world/main/sanyam.json"
 },
     "mayank123":{
     "name":"Mayank Kumar",
     "pass":"mayankPass%%$111",
-    "jobs":"https://raw.githubusercontent.com/sanyamgoel10/hello-world/main/m_jobs.json"
+    "jobs":"https://raw.githubusercontent.com/sanyamgoel10/hello-world/main/mayank123.json"
 }
 }
