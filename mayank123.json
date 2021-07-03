@@ -1,7 +1,7 @@
 {
   "name":"Mayank Kumar",
   "description":"Web Development",
-  "contact":{"email":"kjhgfrerfghjm","phone":8888888888}
+  "contact":{"email":"kjhgfrerfghjm","phone":8888888888},
   "jobs":[
     {"jobname":"mjob1", "jobdescription":"work on world 1", "jobtimestamps":"2017-03-10  14:30:12", "xml":"<asdfvbdedfg>"},
     {"jobname":"mjob2", "jobdescription":"work on world 2", "jobtimestamps":"2018-02-27  15:35:20", "xml":"<ghgfdewsdjk>"},
