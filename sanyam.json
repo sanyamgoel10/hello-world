@@ -1,7 +1,7 @@
 {
   "name":"Sanyam Kumar",
   "description":"Python Development",
-  "contact":{"email":"bgfedfvb","phone":9999999999}
+  "contact":{"email":"bgfedfvb","phone":9999999999},
   "jobs":[
     {"jobname":"sjob1","jobdescription":"work on hello 1","jobtimestamps":"2017-08-19  12:17:55","xml":"<bgfrdfvb>"},
     {"jobname":"sjob2","jobdescription":"work on hello 2","jobtimestamps":"2017-08-19  11:17:56","xml":"<bgfrdfgv>"},
