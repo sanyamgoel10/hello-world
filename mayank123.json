@@ -1,9 +1,10 @@
 {
   "name":"Mayank Kumar",
   "description":"Web Development",
+  "contact":{"email":"kjhgfrerfghjm","phone":8888888888}
   "jobs":[
-    {"jobname":"job1", "jobdescription":"work on world 1", "jobtimestamps":"2017-03-10  14:30:12", "xml":"<asdfvbdedfg>"},
-    {"jobname":"job2", "jobdescription":"work on world 2", "jobtimestamps":"2018-02-27  15:35:20", "xml":"<ghgfdewsdjk>"},
-    {"jobname":"job3","jobdescription":"work on world 3","jobtimestamps":"2017-03-12  13:11:34","xml":"<djghdsxckg>"}
+    {"jobname":"mjob1", "jobdescription":"work on world 1", "jobtimestamps":"2017-03-10  14:30:12", "xml":"<asdfvbdedfg>"},
+    {"jobname":"mjob2", "jobdescription":"work on world 2", "jobtimestamps":"2018-02-27  15:35:20", "xml":"<ghgfdewsdjk>"},
+    {"jobname":"mjob3","jobdescription":"work on world 3","jobtimestamps":"2017-03-12  13:11:34","xml":"<djghdsxckg>"}
   ]
 }
