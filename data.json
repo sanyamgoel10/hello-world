@@ -1,11 +1,41 @@
-{"sanyam":{
-    "name":"Sanyam Kumar",
-    "pass":"sanyam111",
-    "jobsjson":"https://raw.githubusercontent.com/sanyamgoel10/hello-world/main/sanyam.json"
-},
-    "mayank123":{
-    "name":"Mayank Kumar",
-    "pass":"mayankPass%%$111",
-    "jobsjson":"https://raw.githubusercontent.com/sanyamgoel10/hello-world/main/mayank123.json"
-}
+{
+  "origin":"0,0,0",
+  "walls":{
+    "w1":{
+      "width":"0.5",
+      "height":"10",
+      "len":"5",
+      "angle":"0",
+      "doorpos":"3",
+      "doorwidth":"2",
+      "doorheight":"5",
+    },
+    "w2":{
+      "width":"1",
+      "height":"11",
+      "len":"6",
+      "angle":"90",
+      "doorpos":"4",
+      "doorwidth":"3",
+      "doorheight":"5.5",
+    },
+    "w3":{
+      "width":"1.5",
+      "height":"12",
+      "len":"7",
+      "angle":"0",
+      "doorpos":"3",
+      "doorwidth":"2",
+      "doorheight":"6",
+    },
+    "w4":{
+        "width":"0.5",
+        "height":"13",
+        "len":"8",
+        "angle":"90",
+        "doorpos":"3",
+        "doorwidth":"3",
+        "doorheight":"6.5",
+    }
+  }
 }
